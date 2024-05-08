@@ -10,19 +10,6 @@ To install and configure the project, follow these steps:
 2. Install dependencies: `npm install`
 3. Set up environment variables: `cp .env.example .env` and adjust as needed.
 
-## Project Structure
-
-The project structure is as follows:
-
-project/
-├── api/
-│ ├── src/
-│ ├── Dockerfile
-│ └── package.json
-├── docker-compose.yml
-├── .gitignore
-└── README.md
-
 ## How to Use
 
 To use the project locally, follow these steps:
