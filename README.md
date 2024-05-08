@@ -2,26 +2,11 @@
 
 Brief project description.
 
-## Installation and Configuration
+##  Configuration
 
-To install and configure the project, follow these steps:
+To configure the project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/tm0nt/initialProject.git`
-2. Install dependencies: `npm install`
-3. Set up environment variables: `cp .env.example .env` and adjust as needed.
-
-## Project Structure
-
-The project structure is as follows:
-
-project/
-├── api/
-│ ├── src/
-│ ├── Dockerfile
-│ └── package.json
-├── docker-compose.yml
-├── .gitignore
-└── README.md
+1. Set up environment variables: `cp .env.example .env` and adjust as needed.
 
 ## How to Use
 
