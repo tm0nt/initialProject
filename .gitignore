@@ -4,6 +4,5 @@ npm-debug.log
 .docker/
 .DS_Store
 *.log
-.env
 .vscode/
 .idea/
