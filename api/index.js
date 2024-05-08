@@ -15,8 +15,8 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 // Routes
-app.use(authCallback);
-app.use(authRoutes);
+app.use("/auth", authCallback);
+app.use("/auth", authRoutes);
 
 // Started Server
 const PORT = process.env.PORT || 3000;
